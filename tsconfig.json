@@ -1,5 +1,9 @@
 {
     "compilerOptions": {
+        // "baseUrl": "src/",
+        "outDir": "src",
         "watch": true
-    }
+    },
+    "include": ["src/*"],
+    "exclude": []
 }
