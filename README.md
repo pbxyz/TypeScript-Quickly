@@ -15,6 +15,6 @@ README
 
 <img src="ts_logo.jpg" alt="TypeScript logo" width="150"/>
 
-[http://pbxyz.uphero.com/](http://pbxyz.uphero.com/)
+[http://pbxyz.epizy.com/](http://pbxyz.epizy.com/)
 
 </div>
