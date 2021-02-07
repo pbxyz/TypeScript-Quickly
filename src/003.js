@@ -1,5 +1,5 @@
-var ord = Symbol("orderID");
-var myOrder = {
-    ord: "123"
+var logger = function () {
+    while (true) {
+        console.log("The server is up and running");
+    }
 };
-console.log(myOrder["ord"]);

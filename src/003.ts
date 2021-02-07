@@ -1,5 +1,6 @@
-const ord = Symbol("orderID");
-const myOrder = {
-    ord: "123",
+const logger = () => {
+    while (true) {
+        console.log("The server is up and running");
+    }
 };
-console.log(myOrder["ord"]);
+
