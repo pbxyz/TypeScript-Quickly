@@ -1,11 +1,11 @@
-function savePerson(person) {
-    console.log("Saving ", person);
-}
 var p = {
     firstName: "John",
     lastName: "Smith",
     age: 25
 };
+function savePerson(person) {
+    console.log("Saving ", person);
+}
 savePerson(p);
 // // class Person {
 // //     firstName: string;
