@@ -7,7 +7,7 @@ interface Person {
 const p: Person = {
     firstName: "John",
     lastName: "Smith",
-    age: 25,
+    age: 25
 };
 
 function savePerson(person: Person): void {
