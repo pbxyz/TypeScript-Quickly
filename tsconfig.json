@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         // "baseUrl": "src/",
-        "outDir": "src",
+        "outDir": "dist",
         "watch": true
     },
     "include": ["src/*"],
